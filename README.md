@@ -1,2 +1,2 @@
-# hw3
-hw3
+# goit-markup-hw-03
+ hm3
